@@ -7,13 +7,11 @@
             src="https://badges.pufler.dev/repos/Sameekshaa" alt="Sameekshaa" /></a>
     <a href="https://github.com/Sameekshaa?tab=followers"><img alt="GitHub followers"
             src="https://img.shields.io/github/followers/Sameekshaa?color=4C1&logo=github"></a>
-            
-    
 </p>
 
 - 🌱 I’m currently exploring my interests.
 
-- 💫 There're a top of technology to learn in my bucketlist and on top it's **React.js** as of now.
+- 💫 There're a lop of technology to learn in my bucketlist and on top it's **React.js** as of now.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sameekshaa](https://github.com/Sameekshaa)
 
@@ -69,12 +67,15 @@
             alt="selenium" width="40" height="40" /> </a>
 </p>
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sameekshaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameekshaa&show_icons=true&locale=en&layout=compact" alt="sameekshaa most used language"/></p>
 
-### 🔥&nbsp;My Stats :
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com?user=Sameekshaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ ### 🔥&nbsp;My Stats :
+<details>
+<summary><samp>&#9776;</samp><i>(Click to view my Github Stat)</i> </summary>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sameekshaa&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Sameekshaa Github Stat"/>
+</p>
+<br>
 
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sameekshaa&show_icons=true&locale=en&layout=compact"
-        alt="sameekshaa" /></p>
+</details>
