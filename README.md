@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently exploring my interests.
 
-- 💫 There're a lop of technology to learn in my bucketlist and on top it's **React.js** as of now.
+- 💫 There're a lot of technology to learn in my bucketlist and on top it's **React.js** as of now.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sameekshaa](https://github.com/Sameekshaa)
 
